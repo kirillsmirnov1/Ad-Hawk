@@ -1,0 +1,13 @@
+{
+  "name": "trulden.ad-hawk",
+  "version": "1.0.9",
+  "displayName": "Ad Hawk",
+  "author": {
+    "name": "Kirill Smirnov",
+    "email": "thegaldren@gmail.com",
+    "url": "https://github.com/kirillsmirnov1",
+    "dependencies": {
+      "com.unity.ads": "3.6.1"
+    }
+  }
+}
